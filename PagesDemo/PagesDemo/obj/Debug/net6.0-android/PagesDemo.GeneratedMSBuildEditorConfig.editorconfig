@@ -28,6 +28,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.ContentPageDemo.
 build_metadata.AdditionalFiles.TargetPath = ContentPageDemo.xaml
 build_metadata.AdditionalFiles.RelativePath = ContentPageDemo.xaml
 
+[C:/Users/larochem/Documents/MAUI/PagesDemo/PagesDemo/FlyoutPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.FlyoutPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = FlyoutPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = FlyoutPageDemo.xaml
+
 [C:/Users/larochem/Documents/MAUI/PagesDemo/PagesDemo/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.MainPage.xaml
@@ -45,3 +51,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/larochem/Documents/MAUI/PagesDemo/PagesDemo/TabedPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.TabedPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = TabedPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = TabedPageDemo.xaml

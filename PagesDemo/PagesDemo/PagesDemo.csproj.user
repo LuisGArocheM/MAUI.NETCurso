@@ -10,5 +10,11 @@
     <MauiXaml Update="ContentPageDemo.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="FlyoutPageDemo.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="TabedPageDemo.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
   </ItemGroup>
 </Project>
